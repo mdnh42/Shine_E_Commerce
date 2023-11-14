@@ -10,7 +10,7 @@ const Header = () => {
             </div >
             <div className='flex justify-between mx-10'>
                 <div className="">
-                    <h1 className='text-5xl text-indigo-700 font-bold'>SHEIN</h1>
+                    <h1 className='lg:text-5xl md:text-3xl sm:text-xl text-indigo-700 font-bold'>SHEIN</h1>
                 </div>
                 <div className='flex justify-between place-items-center'>
                     <input className="border py-2 rounded" type="text" placeholder="Dress" />
