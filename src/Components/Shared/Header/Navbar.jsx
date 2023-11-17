@@ -733,11 +733,11 @@ const Navbar = () => {
     return (
         <div className="bg-white">
             <header className="relative bg-white">
-                <nav aria-label="Top" className="mx-auto max-w-7xl px-4 lg:px-8">
+                <nav aria-label="Top" className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                     <div className="border-b border-gray-200">
-                        <div className="flex h-16 items-center">
-                            <Popover.Group className=" lg:ml-8 lg:block md:ml-1 lg:self-stretch z-40">
-                                <div className="flex h-full space-x-8">
+                        <div className="flex items-center justify-between h-16">
+                            <Popover.Group className="lg:ml-8 lg:block md:ml-1 lg:self-stretch z-40">
+                                <div className="flex flex-wrap sm:flex-no-wrap md:flex-wrap lg:flex-wrap xl:flex-wrap h-full space-x-8">
                                     {navigation.categories.map((category) => (
                                         <Popover key={category.name} className="flex">
                                             {({ open }) => (
@@ -768,12 +768,15 @@ const Navbar = () => {
                                                             <div className="absolute inset-0 top-1/2 bg-white shadow" aria-hidden="true" />
 
                                                             <div className="relative bg-white">
-                                                                <div className="mx-auto max-w-7xl px-8">
-                                                                    <div className="grid grid-cols-2 gap-x-8 gap-y-10 py-16">
-                                                                        <div className="row-start-1 grid grid-cols-3 gap-x-8 gap-y-10 text-sm">
+                                                                <div className="mx-auto max-w-7xl px-4 sm:px-8 lg:px-0">
+                                                                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-8 gap-y-10 py-16">
+                                                                        <div className="lg:col-span-1 grid grid-cols-2 sm:grid-cols-3 gap-x-8 gap-y-10 text-sm">
                                                                             {category.sections.map((section) => (
                                                                                 <div key={section.name}>
-                                                                                    <p id={`${section.name}-heading`} className="font-medium text-gray-900">
+                                                                                    <p
+                                                                                        id={`${section.name}-heading`}
+                                                                                        className="font-medium text-gray-900"
+                                                                                    >
                                                                                         {section.name}
                                                                                     </p>
                                                                                     <ul

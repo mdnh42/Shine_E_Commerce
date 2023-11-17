@@ -3,6 +3,7 @@ import Banner from '../../Banner/Banner';
 import DiscountSeciton from './DiscountSeciton';
 import Offer from './Offer';
 import Navbar from '../../Shared/Header/Navbar';
+import Categories from '../Categories/Categories';
 
 const Home = () => {
     return (
@@ -12,6 +13,8 @@ const Home = () => {
             <DiscountSeciton></DiscountSeciton>
 
             <Offer></Offer>
+            <Categories></Categories>
+
         </div>
     );
 };

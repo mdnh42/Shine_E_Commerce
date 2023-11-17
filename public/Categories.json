@@ -1,0 +1,501 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "New In",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Women Clothing",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Men Fashion",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Electornics",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Bags & Luggage",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Maternity",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Tool & Home Improvement",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Home Textile & Sewing",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Automotive",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Pet Supplies",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Office & School Supplies",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Toys & Games",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Jeans",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Pet Supplies",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Pet Supplies",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Pet Supplies",
+        "products": [
+          {
+            "id": 1,
+            "product_name": "Sale",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/67/1698914854a811b6653222592dfae8b6d22f9572f1.png"
+          },
+          {
+            "id": 2,
+            "product_name": "Man fashion",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/08/8c/1699434035a4c02b767ef233996c8eb3c178d8ced1.png"
+          },
+          {
+            "id": 3,
+            "product_name": "Kids",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699540477a81d38be114a884ea2a16a05a8bb8279.png"
+          },
+          {
+            "id": 4,
+            "product_name": "T-Shirt",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/02/c9/1698932023ab608a6504e79da09c3b45959e31eb0f.png"
+          },
+          {
+            "id": 5,
+            "product_name": "Curve",
+            "image": "https://img.ltwebstatic.com/images3_abc/2023/11/09/cb/1699527994010f732d9d993ccd59f56e85935b1492.png"
+          }
+        ]
+      }
+    ]
+  }
+  
