@@ -6,7 +6,7 @@ const Header = () => {
         <div className="">
             <div className='p-6 bg-orange-500 font-bold text-white text-center'>
                 <h1 className="lg:text-4xl md:text-2xl sm:text-xl">Free Delivery | Shop Your Favorite Dress OF 20% Discount</h1>
-                {/* Add Section - This comment suggests there should be another component or content */}
+
             </div >
             <div className='flex justify-between mx-10'>
                 <div className="">
@@ -14,13 +14,13 @@ const Header = () => {
                 </div>
                 <div className='flex justify-between place-items-center'>
                     <input className="border py-2 rounded" type="text" placeholder="Dress" />
-                    <span className="px-5"> <FaSearch /> </span>
+                    <span className="px-5"> <a className='hover:text-cyan-800' href=""><FaSearch /></a> </span>
                     <ul className="flex">
-                        <li className="lg:px-5 md:px-2 sm:px-1 text-gray-700"> <FaUserCircle /> </li>
-                        <li className="lg:px-5 md:px-2 sm:px-1 text-gray-700"><FaCartPlus /></li>
-                        <li className="lg:px-5 md:px-2 sm:px-1 text-gray-700"><FaSmileBeam /></li>
-                        <li className="lg:px-5 md:px-2 sm:px-1 text-gray-700"><FaBlenderPhone /></li>
-                        <li className="lg:px-5 md:px-2 sm:px-1 text-gray-700"><FaAmericanSignLanguageInterpreting /></li>
+                        <li className="lg:px-5 md:px-2 sm:px-1 text-gray-700"> <a className='hover:bg-gray-900 text-white' href=""><FaUserCircle /></a> </li>
+                        <li className="lg:px-5 md:px-2 sm:px-1 text-gray-700"><a href=""><FaCartPlus /></a></li>
+                        <li className="lg:px-5 md:px-2 sm:px-1 text-gray-700"><a href=""><FaSmileBeam /></a></li>
+                        <li className="lg:px-5 md:px-2 sm:px-1 text-gray-700"><a href=""><FaBlenderPhone /></a></li>
+                        <li className="lg:px-5 md:px-2 sm:px-1 text-gray-700"><a href=""><FaAmericanSignLanguageInterpreting /></a></li>
                     </ul>
                 </div>
             </div>

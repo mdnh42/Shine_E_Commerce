@@ -1,4 +1,3 @@
-// CarouselDefault.jsx
 import React from 'react';
 import { Carousel } from "@material-tailwind/react";
 
@@ -9,7 +8,7 @@ const CarouselF = ({ slides }) => {
                 <img
                     key={index}
                     src={slide}
-                    alt={`image ${index + 1}`}
+                    alt={`image ${index + 2}`}
                     className="h-full w-full object-cover"
                 />
             ))}

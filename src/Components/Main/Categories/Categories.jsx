@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Category from './Category';
+import axios from 'axios';
 
 const Categories = () => {
     const [categories, setCategories] = useState([]);
@@ -17,7 +18,8 @@ const Categories = () => {
         };
 
         fetchData();
-    }, []); // The empty dependency array ensures that this effect runs only once on mount
+    }, []);
+
 
     return (
         <div className='w-[90%] m-auto'>
