@@ -21,8 +21,8 @@ const Categories = () => {
 
     return (
         <div className='w-[90%] m-auto'>
-            <h2>Categories</h2>
-            <ul>
+            <h2 className='text-center text-fuchsia-800 font-bold text-3xl'>Categories</h2>
+            <ul className=''>
                 {categories.map((category) => (
 
                     < Category

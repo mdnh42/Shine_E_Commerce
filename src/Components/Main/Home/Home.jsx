@@ -4,6 +4,7 @@ import DiscountSeciton from './DiscountSeciton';
 import Offer from './Offer';
 import Navbar from '../../Shared/Header/Navbar';
 import Categories from '../Categories/Categories';
+import Products from '../Products/Products';
 
 const Home = () => {
     return (
@@ -14,7 +15,7 @@ const Home = () => {
 
             <Offer></Offer>
             <Categories></Categories>
-
+            <Products></Products>
         </div>
     );
 };

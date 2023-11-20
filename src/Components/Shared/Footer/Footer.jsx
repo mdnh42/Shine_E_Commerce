@@ -2,8 +2,8 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div className='bg-gray-900 text-white py-8 min-w-80vh'>
-            <div className='container mx-auto flex justify-between'>
+        <div className='bg-gray-900 text-white py-8 min-w-80vh '>
+            <div className='container mx-auto flex justify-between grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-2 mx-8'>
                 <div className='company_info'>
                     <h5 className='text-xl font-bold'>COMPANY INFO</h5>
                     <ul className=''>
